@@ -3,7 +3,13 @@
 A simple web app that converts IMDb links into playable video links instantly.
 
 ---
-🌐 Live Demo:https://nageshl-12.github.io/imdb-link-player/
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://nageshl-12.github.io/imdb-link-player/" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
